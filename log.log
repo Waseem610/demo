@@ -1,0 +1,5 @@
+fine:com.ye.logger.MyLogger:main:com.ye.logger.MyLogger
+config:com.ye.logger.MyLogger:main:com.ye.logger.MyLogger
+info:com.ye.logger.MyLogger:main:com.ye.logger.MyLogger
+warning:com.ye.logger.MyLogger:main:com.ye.logger.MyLogger
+severe:com.ye.logger.MyLogger:main:com.ye.logger.MyLogger
